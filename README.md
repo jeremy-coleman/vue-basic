@@ -1,5 +1,7 @@
 # babylonjs-vue
 
+https://forum.babylonjs.com/t/how-to-use-glb-and-env-loading-in-vue-via-webpack/26155/2
+
 ## Project setup
 ```
 npm install
